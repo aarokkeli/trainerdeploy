@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trainerdeploy/static/css/main.d9d06e0a.css",
+    "main.js": "/trainerdeploy/static/js/main.ba8f25cf.js",
+    "static/js/787.af44a7c9.chunk.js": "/trainerdeploy/static/js/787.af44a7c9.chunk.js",
+    "index.html": "/trainerdeploy/index.html",
+    "main.d9d06e0a.css.map": "/trainerdeploy/static/css/main.d9d06e0a.css.map",
+    "main.ba8f25cf.js.map": "/trainerdeploy/static/js/main.ba8f25cf.js.map",
+    "787.af44a7c9.chunk.js.map": "/trainerdeploy/static/js/787.af44a7c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d06e0a.css",
+    "static/js/main.ba8f25cf.js"
+  ]
+}
